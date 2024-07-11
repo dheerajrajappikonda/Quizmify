@@ -1,0 +1,8 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/quiz/page": "app/quiz/page.js",
+  "/play/mcq/[gameId]/page": "app/play/mcq/[gameId]/page.js",
+  "/statistics/[gameId]/page": "app/statistics/[gameId]/page.js",
+  "/play/open-ended/[gameId]/page": "app/play/open-ended/[gameId]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}
